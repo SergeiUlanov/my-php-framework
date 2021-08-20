@@ -3,7 +3,7 @@
 use system\Patterns\Singleton;
 use App\Interfaces\IFactory;
 use system\Interfaces\IDataBase;
-use system\Router\IRouter;
+use system\Interfaces\IRouter;
 
 
 
